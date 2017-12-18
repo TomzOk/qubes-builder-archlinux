@@ -52,3 +52,12 @@ thunderbird
 
 # Hardening-related
 checksec
+
+# wallet
+electrum
+qrencode
+zbar
+bitcoin-cli
+bitcoin-daemon
+bitcoin-qt
+bitcoin-tx
